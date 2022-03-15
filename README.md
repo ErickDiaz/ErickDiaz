@@ -1,5 +1,8 @@
 ### Hi, I'm Erick 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/Brocoli_GT)
+[![Linkedin: Erick](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/erickdiazs/)
+
 
 <!--
 **ErickDiaz/ErickDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
