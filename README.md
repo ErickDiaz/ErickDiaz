@@ -1,10 +1,10 @@
 ### Hi, I'm Erick 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/Brocoli_GT)
-[![Linkedin: Erick](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/erickdiazs/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Brocoli_GT?label=Follow)](https://twitter.com/Brocoli_GT)
+[![Linkedin: erickdiazs](https://img.shields.io/badge/-erickdiazs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickdiazs/)](https://www.linkedin.com/in/erickdiazs/)
 
 
-<!--
+<!--misteranmol
 **ErickDiaz/ErickDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
