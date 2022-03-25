@@ -13,6 +13,7 @@
 - Machine Learning
 - Bioinformatics
 - Robotics
+- Nonlinear dynamics and chaos 
 
 
 <!--misteranmol
