@@ -1,6 +1,6 @@
 ### Hi, I'm Erick 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Brocoli_GT?label=Follow)](https://twitter.com/Brocoli_GT)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Brocoli_GT?label=Follow)](https://twitter.com/Brocoli_GT)-->
 [![Linkedin: erickdiazs](https://img.shields.io/badge/-erickdiazs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickdiazs/)](https://www.linkedin.com/in/erickdiazs/)
 
 ## Skills
